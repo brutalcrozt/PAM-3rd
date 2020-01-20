@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PAMSenin</string>
+    <string name="username">Username</string>
+    <string name="usernameHint">Username hint</string>
+    <string name="passwordHint">Password hint</string>
+    <string name="welcome">welcome to second activity</string>
+    <string name="login">Login</string>
+</resources>
